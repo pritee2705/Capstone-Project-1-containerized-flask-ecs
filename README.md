@@ -146,8 +146,6 @@ Expected results:
 ### Task details and logs
 ![Task details](screenshots/12-task-details.png)
 
-### Application running on AWS
-![App on AWS](screenshots/13-app-on-aws.png)
 
 ---
 
